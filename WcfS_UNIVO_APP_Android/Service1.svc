@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WcfS_UNIVO_APP_Android.Service1" CodeBehind="Service1.svc.cs" %>
