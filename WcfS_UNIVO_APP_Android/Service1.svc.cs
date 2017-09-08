@@ -79,5 +79,10 @@ namespace WcfS_UNIVO_APP_Android
             }
             return composite;
         }
+
+        public void SegruridadPorControlGranular()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
